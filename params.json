@@ -1,0 +1,6 @@
+{
+  "name": "Sublimetextconfig",
+  "tagline": "sublimeconfig",
+  "body": "{\r\n\t\"afn_insert_width_first\": true,\r\n\t\"afn_valid_scopes\":\r\n\t[\r\n\t\t\"string\"\r\n\t],\r\n\t\"always_show_minimap_viewport\": true,\r\n\t\"bold_folder_labels\": true,\r\n\t\"color_scheme\": \"Packages/Color Scheme - Default/Monokai Bright.tmTheme\",\r\n\t\"font_face\": \"ubuntu\",\r\n\t\"font_options\":\r\n\t[\r\n\t\t\"directwrite\"\r\n\t],\r\n\t\"font_size\": 15,\r\n\t\"ignored_packages\":\r\n\t[\r\n\t\t\"Vintage\"\r\n\t],\r\n\t\"indent_guide_options\":\r\n\t[\r\n\t\t\"draw_normal\",\r\n\t\t\"draw_active\"\r\n\t],\r\n\t\"line_padding_bottom\": 3,\r\n\t\"line_padding_top\": 3,\r\n\t\"material_theme_bold_tab\": false,\r\n\t\"material_theme_disable_fileicons\": false,\r\n\t\"material_theme_disable_folder_animation\": true,\r\n\t\"material_theme_disable_tree_indicator\": true,\r\n\t\"material_theme_small_statusbar\": true,\r\n\t\"material_theme_small_tab\": true,\r\n\t\"overlay_scroll_bars\": \"enabled\",\r\n\t\"preview_on_click\": false,\r\n\t\"theme\": \"Material-Theme-Darker.sublime-theme\",\r\n\t\"word_wrap\": \"false\"\r\n}\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
