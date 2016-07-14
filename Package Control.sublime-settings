@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Brackets Color Scheme",
+		"ChineseLoremIpsum",
+		"ChineseTranslator",
+		"Color Highlighter",
+		"ColorPicker",
+		"Compass",
+		"ConvertToUTF8",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Style Reflector",
+		"FakeImg Image Placeholder Snippet",
+		"Front-end Project Snippets",
+		"Goto-CSS-Declaration",
+		"HTML Minifier",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"iconfont snippets",
+		"JavaScript Console",
+		"jQuery",
+		"LiveReload",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Ruby Completions",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeServer",
+		"Susy 2 Snippets",
+		"Susy Snippets",
+		"WordPress",
+		"WordPress Customizer",
+		"WordPress Developer Resources"
+	]
+}
