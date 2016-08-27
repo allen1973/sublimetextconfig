@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"ASCII Decorator",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"FakeImg Image Placeholder Snippet",
+		"HTML-CSS-JS Prettify",
+		"iconfont snippets",
+		"Jade",
+		"LoremIpsum",
+		"Material Theme",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements"
+	]
+}
